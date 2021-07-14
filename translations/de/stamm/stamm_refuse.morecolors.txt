@@ -1,0 +1,42 @@
+"Phrases"
+{
+	"GetRefuse"
+	{
+		"de"        "Du kannst {1} Mal verweigern"
+	}
+	
+	"RefuseCommand"
+	{
+		"de"        "Verweigere das Spiel"
+	}
+	
+	"NotEnoughT"
+	{
+		"de"		"{strange}[ {mediumseagreen}Verweigern {strange}] {strange}Du kannst nur verweigern, wenn mindestens {mediumseagreen}{1} {strange}Terroristen leben."
+	}
+	
+	"Refuse"
+	{
+		"de"		"{strange}[ {mediumseagreen}Verweigern {strange}] {mediumseagreen}{1} {strange}hat das Spiel verweigert."
+	}
+	
+	"MultiRefuse"
+	{
+		"de"		"{strange}[ {mediumseagreen}Verweigern {strange}] {mediumseagreen}{1} {strange}hat das Spiel verweigert. {strange}[{mediumseagreen}{2}{strange}/{mediumseagreen}{3}{strange}]"
+	}
+	
+	"CantRefuse"
+	{
+		"de"        "{strange}[ {mediumseagreen}Verweigern {strange}] {strange}Du kannst nicht mehr verweigern!"
+	}
+	
+	"NotAlive"
+	{
+		"de"        "{strange}[ {mediumseagreen}Verweigern {strange}] {strange}Tote können nicht verweigern!"
+	}
+
+	"NoT"
+	{
+		"de"        "{strange}[ {mediumseagreen}Verweigern {strange}] {strange}CTs können nicht verweigern!"
+	}
+}

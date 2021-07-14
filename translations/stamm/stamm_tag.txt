@@ -4,6 +4,5 @@
 	{	
 		"#format"   "{1:s}"
 		"en"        "Get the VIP Tag: {1} (Default: off)"
-		"de"        "Bekommen den VIP Tag: {1} (Default: off)"
 	}
 }

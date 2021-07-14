@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"GetTeleport"
+	{
+		"de"        "Erstelle Teleport Punkte"
+	}
+	"TeleportAdded"
+	{
+		"de"        "{mediumseagreen}Du hast einen {strange}neuen Teleporter {mediumseagreen}erstellt, schreibe {strange}!stele {mediumseagreen}zum {strange}teleportieren"
+	}
+}

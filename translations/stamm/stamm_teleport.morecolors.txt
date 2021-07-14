@@ -3,11 +3,9 @@
 	"GetTeleport"
 	{
 		"en"        "Create teleport points"
-		"de"        "Erstelle Teleport Punkte"
 	}
 	"TeleportAdded"
 	{
 		"en"        "{mediumseagreen}You added a {strange}new teleport{mediumseagreen}, type {strange}!stele {mediumseagreen}to {strange}teleport"
-		"de"        "{mediumseagreen}Du hast einen {strange}neuen Teleporter {mediumseagreen}erstellt, schreibe {strange}!stele {mediumseagreen}zum {strange}teleportieren"
 	}
 }

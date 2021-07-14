@@ -1,0 +1,20 @@
+"Phrases"
+{
+	"GetKnifeInfect"
+	{
+		"en"        "Infect players with knife"
+		"de"        "Infiziere andere Spieler mit dem Messer"
+	}
+	"YouGotTimeInfected"
+	{
+		"#format"   "{1:s},{2:i}"
+		"en"        "{mediumseagreen}You {strange}got infected {mediumseagreen}by {strange}{1} {mediumseagreen}for {strange}{2} seconds"
+		"de"        "{mediumseagreen}Du wurdest {strange}von {1} {mediumseagreen}für {strange}{2} Sekunden infiziert"
+	}
+	"YouGotRoundInfected"
+	{
+		"#format"   "{1:s}"
+		"en"        "{mediumseagreen}You {strange}got infected {mediumseagreen}by {strange}{1} {mediumseagreen}until {strange}next spawn"
+		"de"        "{mediumseagreen}Du wurdest von {strange}{1} {mediumseagreen}bis zum {strange}nächsten Spawn infiziert"
+	}
+}

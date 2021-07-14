@@ -4,6 +4,5 @@
 	{
 		"#format"   "{1:s}"
 		"en"        "{mediumseagreen}You need {strange}the Flag {1} {mediumseagreen}to collect points"
-		"de"        "{mediumseagreen}Du brauchst {strange}den Flag {1} {mediumseagreen}um Punkte zu sammeln"
 	}
 }

@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"GetAdminFlags"
+	{
+		"en"        "Get the following admin flags: {1}"
+	}
+}

@@ -3,6 +3,5 @@
 	"GetSlot"
 	{
 		"en"        "Get a VIP Slot"
-		"de"        "Bekomme einen VIP Slot"
 	}
 }

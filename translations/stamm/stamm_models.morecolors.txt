@@ -3,33 +3,27 @@
 	"GetModel"
 	{
 		"en"        "Get a own Model"
-		"de"        "Bekomme ein eigenes Model"
 	}
 	"GetModelChange"
 	{
 		"#format"   "{1:s}"
 		"en"        "Get a own Model ({1})"
-		"de"        "Bekomme ein eigenes Model ({1})"
 	}
 	"ChooseModel"
 	{
 		"en"        "Choose a VIP model"
-		"de"        "Wähle ein VIP Model"
 	}
 	"StandardModel"
 	{
 		"en"        "Standard Model"
-		"de"        "Standard Model"
 	}
 	"NewModel"
 	{
 		"en"        "{mediumseagreen}Next round {strange}you can choose {mediumseagreen}a new Model!"
-		"de"        "{mediumseagreen}Nächste Runde {strange}kannst du {mediumseagreen}ein neues Model auswählen!"
 	}
 	"ModelChangeCmd"
 	{
 		"#format"   "{1:s}"
 		"en"        "Choose new Model: {1}"
-		"de"        "Model neu wählen: {1}"
 	}
 }

@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"GetLessGravity"
+	{
+		"#format"   "{1:i}"
+		"en"        "Get {1} percent less gravity"
+		"de"        "Bekomme {1} Prozent weniger Schwerkraft"
+	}
+}

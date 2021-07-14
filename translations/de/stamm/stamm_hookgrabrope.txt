@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"GetGrab"
+	{
+		"en"        "Command +grab to grab a player/object"
+		"de"        "Befehl +grab um einen Spieler/Objekt zu greifen"
+	}
+	"GetHook"
+	{
+		"en"        "Command +hook to shoot a hook"
+		"de"        "Befehl +hook um einen Haken zu schießen"
+	}
+	"GetRope"
+	{
+		"en"        "Command +rope to attach a rope"
+		"de"        "Befehl +rope um ein Seil aufzuspannen "
+	}
+}

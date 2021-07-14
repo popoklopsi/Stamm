@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"GetSpawnHP"
+	{
+		"de"        "Bekomme jede Runde {1} HP mehr"
+	}
+}

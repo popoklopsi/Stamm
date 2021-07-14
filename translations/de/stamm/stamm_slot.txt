@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"GetSlot"
+	{
+		"de"        "Bekomme einen VIP Slot"
+	}
+}

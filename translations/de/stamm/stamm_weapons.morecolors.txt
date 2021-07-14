@@ -1,0 +1,31 @@
+"Phrases"
+{
+	"GetWeapons"
+	{
+		"de"        "Bekomme Waffen per Chat"
+	}
+	"GetWeaponsAsT"
+	{
+		"de"        "Bekomme als T Waffen per Chat"
+	}
+	"GetWeaponsAsCT"
+	{
+		"de"        "Bekomme als CT Waffen per Chat"
+	}
+	"MaximumReached"
+	{
+		"de"        "Maximum erreicht!"
+	}
+	"WeaponFailed"
+	{
+		"de"        "{mediumseagreen}Waffe ungültig {strange}oder {mediumseagreen}nicht erlaubt!"
+	}
+	"TCanNotGive"
+	{
+		"de"        "{mediumseagreen}Terroristen {strange}können sich keine Waffen geben!"
+	}
+	"CTCanNotGive"
+	{
+		"de"        "{mediumseagreen}Counter-Terroristen {strange}können sich keine Waffen geben!"
+	}
+}

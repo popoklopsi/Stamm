@@ -3,6 +3,5 @@
 	"GetNoReload"
 	{
 		"en"        "Don't have to reload"
-		"de"        "Nicht nachladen müssen"
 	}
 }

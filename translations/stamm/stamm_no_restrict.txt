@@ -3,6 +3,5 @@
 	"GetNoRestrict"
 	{	
 		"en"        "Have restricted weapons"
-		"de"        "Benutze gesperrte Waffen"
 	}
 }

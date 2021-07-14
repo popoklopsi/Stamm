@@ -3,6 +3,5 @@
 	"GetJoinsound"
 	{
 		"en"        "Get a Joinsound"
-		"de"        "Bekomme einen Joinsound"
 	}
 }

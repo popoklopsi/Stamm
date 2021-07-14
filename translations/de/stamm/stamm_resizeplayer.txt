@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"GetResize"
+	{
+		"de"        "Werde {1} Prozent deiner normalen Größe groß"
+	}
+}

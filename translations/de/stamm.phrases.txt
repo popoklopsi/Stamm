@@ -1,0 +1,271 @@
+"Phrases"
+{
+	"aborted"
+	{
+		"de"        "Abgebrochen"
+	}
+	"Round"
+	{
+		"de"        "Runde"
+	}
+	"Kill"
+	{
+		"de"        "Kill"
+	}
+	"Minute"
+	{
+		"de"        "Minute(n)"
+	}
+	"Points"
+	{
+		"de"        "Stamm Punkte"
+	}
+	"Flag"
+	{
+		"de"        "Flag"
+	}
+	"VIP"
+	{
+		"de"        "VIP"
+	}
+	"PointInfo"
+	{
+		"de"        "Du bekommst 1 Stamm Punkt mit:"
+	}
+	"NewPointsKill"
+	{
+		"de"        "Du hast {green}{1} Stamm Punkt/e für {lightgreen}das Töten eines Spielers erhalten"
+	}
+	"NewPointsRound"
+	{
+		"de"        "Du hast {green}{1} Stamm Punkt/e für {lightgreen}eine neue Runde erhalten"
+	}
+	"NewPointsTime"
+	{
+		"de"        "Du hast {green}{1} Stamm Punkt/e für {lightgreen}das Spielen von {2} Minute/n erhalten"
+	}
+	"InfoTyp"
+	{
+		"de"        "ist aktiviert, {green}schreibe {1} {lightgreen}um deine {green}aktuellen Stamm Punkte {lightgreen}zu sehen"
+	}
+	"InfoTypInfo"
+	{
+		"de"        "Schreibe {green}{1}{lightgreen}, um alle Vorzüge {green}von Stamm {lightgreen}zu sehen"
+	}
+	"DeletedPoints"
+	{
+		"de"        "Stamm Punkte {green}von {1} {lightgreen}wurden gelöscht!"
+	}
+	"YourDeletedPoints"
+	{
+		"de"        "Deine Stamm Punkte {green}wurden zurückgesetzt!"
+	}
+	"AllLevels"
+	{
+		"de"        "Level Übersicht"
+	}
+	"ChoosePlayer"
+	{
+		"de"        "Wähle einen Spieler"
+	}
+	"ChooseFeature"
+	{
+		"de"        "Wähle ein Feature"
+	}
+	"NoRanks"
+	{
+		"de"        "{green}Es wurden {lightgreen}keine Spieler {green}gefunden!"
+	}
+	"Rank"
+	{
+		"de"        "Du bist auf dem {green}{1}. Platz{lightgreen} mit {green}{2} Stamm Punkten"
+	}
+	"NoVIPClient"
+	{
+		"de"        "Du hast {green}{1} Stamm Punkte{lightgreen}, du brauchst noch{green} {2} Punkte {lightgreen}um {3}{4} zu werden"
+	}
+	"VIPClient"
+	{
+		"de"        "Du hast {green}{1} Stamm Punkte{lightgreen}, du bist {2}{3}"
+	}
+	"NoVIPClientPlain"
+	{
+		"de"        "Du hast {1} Stamm Punkte, du brauchst noch {2} Punkte um {3}{4} zu werden"
+	}
+	"VIPClientPlain"
+	{
+		"de"        "Du hast {1} Stamm Punkte, du bist {2}{3}"
+	}
+	"NoVIPAll"
+	{
+		"de"        "{green}{1} {lightgreen}hat {green}{2} Stamm Punkte{lightgreen}, er braucht noch{green} {3} Punkte {lightgreen}um {4}{5} zu werden"
+	}
+	"VIPAll"
+	{
+		"de"        "{green}{1} {lightgreen}hat {green}{2} Stamm Punkte{lightgreen}, er ist {3}{4}"
+	}
+	"VIPClientZero"
+	{
+		"de"        "Du hast {green}{1} Stamm Punkte{lightgreen}"
+	}
+	"VIPClientPlainZero"
+	{
+		"de"        "Du hast {1} Stamm Punkte"
+	}
+	"VIPAllZero"
+	{
+		"de"        "{green}{1} {lightgreen}hat {green}{2} Stamm Punkte{lightgreen}"
+	}
+	"LevelNowVIP"
+	{
+		"de"        "{green}{1} {lightgreen}ist jetzt {green}{2} VIP"
+	}
+	"LevelNowLevel"
+	{
+		"de"        "{green}{1} {lightgreen}ist jetzt {green}{2}"
+	}
+	"JoinVIP"
+	{
+		"de"        "{green}Rejoine {lightgreen}um {green}alle Features {lightgreen}zu bekommen"
+	}
+	"StammPoints"
+	{
+		"de"        "Deine Stamm Punkte:"
+	}
+	"StammTop"
+	{
+		"de"        "Stamm Top 10:"
+	}
+	"StammRank"
+	{
+		"de"        "Dein Stamm Rank:"
+	}
+	"StammChange"
+	{
+		"de"        "Features an/aus stellen:"
+	}
+	"Close"
+	{
+		"de"        "Schließen"
+	}
+	"Reset"
+	{
+		"de"        "Zurücksetzen"
+	}
+	"Back"
+	{
+		"de"        "Zurück"
+	}
+	"HaveFeatures"
+	{
+		"de"        "Folgende Features sind verfügbar:"
+	}
+	"ChangeFeatures"
+	{
+		"de"        "Aktiviere/Deaktivere laufende Features:"
+	}
+	"FeatureOn"
+	{
+		"de"        "Deaktiviere {1}"
+	}
+	"FeatureOff"
+	{
+		"de"        "Aktiviere {1}"
+	}
+	"AdminMenu"
+	{
+		"de"        "Admin Menü"
+	}
+	"PointsOfPlayer"
+	{
+		"de"        "Stamm Punkte einem Spieler hinzufügen"
+	}
+	"StammCMD"
+	{
+		"de"        "Stamm Befehle"
+	}
+	"StammFeatures"
+	{
+		"de"        "Stamm Features"
+	}
+	"ResetPlayer"
+	{
+		"de"        "Spieler Stamm Punkte zurücksetzen"
+	}
+	"HappyHour"
+	{
+		"de"        "Happy Hour starten"
+	}
+	"HappyHourEnd"
+	{
+		"de"        "Happy Hour stoppen"
+	}
+	"WritePoints"
+	{
+		"de"        "Schreibe nun{green} die Anzahl der Stamm Punkte {lightgreen}zum addieren {green}in deinen Chat"
+	}
+	"WritePointsInfo"
+	{
+		"de"        "Nachricht {green}mit einem Leerzeichen {lightgreen}= {green}Abbruch"
+	}
+	"SetPoints"
+	{
+		"de"        "Stamm Punkte von {green}{1} {lightgreen}wurden auf: {green}{2} {lightgreen}gesetzt"
+	}
+	"SetPoints2"
+	{
+		"de"        "{green}Deine Stamm Punkte {lightgreen}wurden auf {green}{1} {lightgreen}gesetzt!"
+	}
+	"WriteHappyFactor"
+	{
+		"de"        "{green}Schreibe nun {lightgreen}den Multiplikationsfaktor {green}in den Chat"
+	}
+	"WriteHappyFactorInfo"
+	{
+		"de"        "Wenn kleiner {green}als 2 {lightgreen}= {green}Abbruch"
+	}
+	"WriteHappyTime"
+	{
+		"de"        "{green}Schreibe {lightgreen}die Dauer(in Minuten) {green}in den Chat"
+	}
+	"WriteHappyTimeInfo"
+	{
+		"de"        "Wenn kleiner {green}als 2 {lightgreen}= {green}Abbruch"
+	}
+	"HappyRunning"
+	{
+		"de"        "Happy Hour {green}ist schon aktiv"
+	}
+	"HappyNotRunning"
+	{
+		"de"        "Happy Hour {green}ist nicht aktiv"
+	}
+	"HappyActive"
+	{
+		"de"        "Zurzeit ist {green}Happy Hour {lightgreen}aktiv. Jeder bekommt jetzt {green}{1}x mehr Stamm Punkte"
+	}
+	"HappyEnded"
+	{
+		"de"        "Happy Hour Ende!"
+	}
+	"LoadFeature"
+	{
+		"de"        "Feature aktivieren"
+	}
+	"UnloadFeature"
+	{
+		"de"        "Feature deaktivieren"
+	}
+	"LoadedFeature"
+	{
+		"de"        "{green}Feature {1} {lightgreen}wurde geladen"
+	}
+	"UnloadedFeature"
+	{
+		"de"        "{green}Feature {1} {lightgreen}wurde gestoppt"
+	}
+	"NoFeatureFound"
+	{
+		"de"        "{green}Es wurde {lightgreen}kein Feature {green}gefunden"
+	}
+}

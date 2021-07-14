@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"GetHigherFiringRate"
+	{
+		"#format"   "{1:i}"
+		"en"        "Get {1} percent higher firingrate"
+		"de"        "Bekomme {1} Prozent höhere Feuerschussrate"
+	}
+}

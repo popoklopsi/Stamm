@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"GetFroggyJump"
+	{
+		"en"        "Get Froggy Jump (2x jump)"
+		"de"        "Bekomme Froggy Jump (2x springen)"
+	}
+}

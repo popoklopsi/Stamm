@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"GetTag"
+	{
+		"de"        "Bekommen den VIP Tag: {1} (Default: off)"
+	}
+}

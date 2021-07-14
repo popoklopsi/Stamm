@@ -1,0 +1,290 @@
+"Phrases"
+{
+	"aborted"
+	{
+		"de"        "Abgebrochen"
+	}
+	"Round"
+	{
+		"de"        "Runde"
+	}
+	"Kill"
+	{
+		"de"        "Kill"
+	}
+	"Minute"
+	{
+		"de"        "Minute(n)"
+	}
+	"Points"
+	{
+		"de"        "Stamm Punkte"
+	}
+	"Flag"
+	{
+		"de"        "Flag"
+	}
+	"VIP"
+	{
+		"de"        "VIP"
+	}
+	"PointInfo"
+	{
+		"de"        "Du bekommst 1 Stamm Punkt mit:"
+	}
+	"NewPointsKill"
+	{
+		"de"        "Du hast {mediumseagreen}{1} Stamm Punkt/e für {strange}das Töten eines Spielers erhalten"
+	}
+	"NewPointsRound"
+	{
+		"de"        "Du hast {mediumseagreen}{1} Stamm Punkt/e für {strange}eine neue Runde erhalten"
+	}
+	"NewPointsTime"
+	{
+		"de"        "Du hast {mediumseagreen}{1} Stamm Punkt/e für {strange}das Spielen von {2} Minute/n erhalten"
+	}
+	"InfoTyp"
+	{
+		"de"        "ist aktiviert, {mediumseagreen}schreibe {1} {strange}um deine {mediumseagreen}aktuellen Stamm Punkte {strange}zu sehen"
+	}
+	"InfoTypInfo"
+	{
+		"de"        "Schreibe {mediumseagreen}{1}{strange}, um alle Vorzüge {mediumseagreen}von Stamm {strange}zu sehen"
+	}
+	"DeletedPoints"
+	{
+		"de"        "Stamm Punkte {mediumseagreen}von {1} {strange}wurden gelöscht!"
+	}
+	"YourDeletedPoints"
+	{
+		"de"        "Deine Stamm Punkte {mediumseagreen}wurden zurückgesetzt!"
+	}
+	"AllLevels"
+	{
+		"de"        "Level Übersicht"
+	}
+	"ChoosePlayer"
+	{
+		"de"        "Wähle einen Spieler"
+	}
+	"ChooseFeature"
+	{
+		"de"        "Wähle ein Feature"
+	}
+	"NoRanks"
+	{
+		"de"        "{mediumseagreen}Es wurden {strange}keine Spieler {mediumseagreen}gefunden!"
+	}
+	"Rank"
+	{
+		"#format"   "{1:i},{2:i}"
+		"de"        "Du bist auf dem {mediumseagreen}{1}. Platz{strange} mit {mediumseagreen}{2} Stamm Punkten"
+	}
+	"NoVIPClient"
+	{
+		"#format"   "{1:i},{2:i},{3:s},{4:s}"
+		"de"        "Du hast {mediumseagreen}{1} Stamm Punkte{strange}, du brauchst noch{mediumseagreen} {2} Punkte {strange}um {3}{4} zu werden"
+	}
+	"VIPClient"
+	{
+		"#format"   "{1:i},{2:s},{3:s}"
+		"de"        "Du hast {mediumseagreen}{1} Stamm Punkte{strange}, du bist {2}{3}"
+	}
+	"NoVIPClientPlain"
+	{
+		"#format"   "{1:i},{2:i},{3:s},{4:s}"
+		"de"        "Du hast {1} Stamm Punkte, du brauchst noch {2} Punkte um {3}{4} zu werden"
+	}
+	"VIPClientPlain"
+	{
+		"#format"   "{1:i},{2:s},{3:s}"
+		"de"        "Du hast {1} Stamm Punkte, du bist {2}{3}"
+	}
+	"NoVIPAll"
+	{
+		"#format"   "{1:s},{2:i},{3:i},{4:s},{5:s}"
+		"de"        "{mediumseagreen}{1} {strange}hat {mediumseagreen}{2} Stamm Punkte{strange}, er braucht noch{mediumseagreen} {3} Punkte {strange}um {4}{5} zu werden"
+	}
+	"VIPAll"
+	{
+		"#format"   "{1:s},{2:i},{3:s},{4:s}"
+		"de"        "{mediumseagreen}{1} {strange}hat {mediumseagreen}{2} Stamm Punkte{strange}, er ist {3}{4}"
+	}
+	"VIPClientZero"
+	{
+		"#format"   "{1:i}"
+		"de"        "Du hast {mediumseagreen}{1} Stamm Punkte{strange}"
+	}
+	"VIPClientPlainZero"
+	{
+		"#format"   "{1:i}"
+		"de"        "Du hast {1} Stamm Punkte"
+	}
+	"VIPAllZero"
+	{
+		"#format"   "{1:s},{2:i}"
+		"de"        "{mediumseagreen}{1} {strange}hat {mediumseagreen}{2} Stamm Punkte{strange}"
+	}
+	"LevelNowVIP"
+	{
+		"#format"   "{1:s},{2:s}"
+		"de"        "{mediumseagreen}{1} {strange}ist jetzt {mediumseagreen}{2} VIP"
+	}
+	"LevelNowLevel"
+	{
+		"#format"   "{1:s},{2:s}"
+		"de"        "{mediumseagreen}{1} {strange}ist jetzt {mediumseagreen}{2}"
+	}
+	"JoinVIP"
+	{
+		"de"        "{mediumseagreen}Rejoine {strange}um {mediumseagreen}alle Features {strange}zu bekommen"
+	}
+	"StammPoints"
+	{
+		"de"        "Deine Stamm Punkte:"
+	}
+	"StammTop"
+	{
+		"de"        "Stamm Top 10:"
+	}
+	"StammRank"
+	{
+		"de"        "Dein Stamm Rank:"
+	}
+	"StammChange"
+	{
+		"de"        "Features an/aus stellen:"
+	}
+	"Close"
+	{
+		"de"        "Schließen"
+	}
+	"Reset"
+	{
+		"de"        "Zurücksetzen"
+	}
+	"Back"
+	{
+		"de"        "Zurück"
+	}
+	"HaveFeatures"
+	{
+		"de"        "Folgende Features sind verfügbar:"
+	}
+	"ChangeFeatures"
+	{
+		"de"        "Aktiviere/Deaktivere laufende Features:"
+	}
+	"FeatureOn"
+	{
+		"#format"   "{1:s}"
+		"de"        "Deaktiviere {1}"
+	}
+	"FeatureOff"
+	{
+		"#format"   "{1:s}"
+		"de"        "Aktiviere {1}"
+	}
+	"AdminMenu"
+	{
+		"de"        "Admin Menü"
+	}
+	"PointsOfPlayer"
+	{
+		"de"        "Stamm Punkte einem Spieler hinzufügen"
+	}
+	"StammCMD"
+	{
+		"de"        "Stamm Befehle"
+	}
+	"StammFeatures"
+	{
+		"de"        "Stamm Features"
+	}
+	"ResetPlayer"
+	{
+		"de"        "Spieler Stamm Punkte zurücksetzen"
+	}
+	"HappyHour"
+	{
+		"de"        "Happy Hour starten"
+	}
+	"HappyHourEnd"
+	{
+		"de"        "Happy Hour stoppen"
+	}
+	"WritePoints"
+	{
+		"de"        "Schreibe nun{mediumseagreen} die Anzahl der Stamm Punkte {strange}zum addieren {mediumseagreen}in deinen Chat"
+	}
+	"WritePointsInfo"
+	{
+		"de"        "Nachricht {mediumseagreen}mit einem Leerzeichen {strange}= {mediumseagreen}Abbruch"
+	}
+	"SetPoints"
+	{
+		"#format"   "{1:s},{2:i}"
+		"de"        "Stamm Punkte von {mediumseagreen}{1} {strange}wurden auf: {mediumseagreen}{2} {strange}gesetzt"
+	}
+	"SetPoints2"
+	{
+		"#format"   "{1:i}"
+		"de"        "{mediumseagreen}Deine Stamm Punkte {strange}wurden auf {mediumseagreen}{1} {strange}gesetzt!"
+	}
+	"WriteHappyFactor"
+	{
+		"de"        "{mediumseagreen}Schreibe nun {strange}den Multiplikationsfaktor {mediumseagreen}in den Chat"
+	}
+	"WriteHappyFactorInfo"
+	{
+		"de"        "Wenn kleiner {mediumseagreen}als 2 {strange}= {mediumseagreen}Abbruch"
+	}
+	"WriteHappyTime"
+	{
+		"de"        "{mediumseagreen}Schreibe {strange}die Dauer(in Minuten) {mediumseagreen}in den Chat"
+	}
+	"WriteHappyTimeInfo"
+	{
+		"de"        "Wenn kleiner {mediumseagreen}als 2 {strange}= {mediumseagreen}Abbruch"
+	}
+	"HappyRunning"
+	{
+		"de"        "Happy Hour {mediumseagreen}ist schon aktiv"
+	}
+	"HappyNotRunning"
+	{
+		"de"        "Happy Hour {mediumseagreen}ist nicht aktiv"
+	}
+	"HappyActive"
+	{
+		"#format"   "{1:i}"
+		"de"        "Zurzeit ist {mediumseagreen}Happy Hour {strange}aktiv. Jeder bekommt jetzt {mediumseagreen}{1}x mehr Stamm Punkte"
+	}
+	"HappyEnded"
+	{
+		"de"        "Happy Hour Ende!"
+	}
+	"LoadFeature"
+	{
+		"de"        "Feature aktivieren"
+	}
+	"UnloadFeature"
+	{
+		"de"        "Feature deaktivieren"
+	}
+	"LoadedFeature"
+	{
+		"#format"   "{1:s}"
+		"de"        "{mediumseagreen}Feature {1} {strange}wurde geladen"
+	}
+	"UnloadedFeature"
+	{
+		"#format"   "{1:s}"
+		"de"        "{mediumseagreen}Feature {1} {strange}wurde gestoppt"
+	}
+	"NoFeatureFound"
+	{
+		"de"        "{mediumseagreen}Es wurde {strange}kein Feature {mediumseagreen}gefunden"
+	}
+}

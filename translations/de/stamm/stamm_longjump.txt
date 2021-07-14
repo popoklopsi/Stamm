@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"GetLongJump"
+	{
+		"en"        "Get Long Jump"
+		"de"        "Bekomme Long Jump"
+	}
+}

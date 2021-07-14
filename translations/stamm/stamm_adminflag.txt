@@ -4,6 +4,5 @@
 	{
 		"#format"   "{1:s}"
 		"en"        "Get the following admin flags: {1}"
-		"de"        "Bekomme folgende Admin Flags: {1}"
 	}
 }

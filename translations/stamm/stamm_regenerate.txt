@@ -4,6 +4,5 @@
 	{
 		"#format"   "{1:i},{2:i}"
 		"en"        "Get every {2} second(s) {1} HP back"
-		"de"        "Bekomme jede {2} Sekunde(n) {1} HP zurück"
 	}
 }

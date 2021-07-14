@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"GetCash"
+	{	
+		"#format"   "{1:i}"
+		"en"        "Get every Round {1} Dollar"
+		"de"        "Bekomme jede Runde {1} Dollar"
+	}
+}

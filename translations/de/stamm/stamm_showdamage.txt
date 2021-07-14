@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"GetShowDamage"
+	{
+		"de"        "Sehe den Schaden, den du gemacht hast"
+	}
+}

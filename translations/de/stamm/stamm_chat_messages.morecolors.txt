@@ -1,0 +1,25 @@
+"Phrases"
+{
+	"LeaveMessage"
+	{
+		"#format"   "{1:s}"
+		"en"        "{mediumseagreen}VIP {1} {strange}left the Server."
+		"de"        "{mediumseagreen}VIP {1} {strange}hat den Server verlassen."
+	}
+	"WelcomeMessage"
+	{
+		"#format"   "{1:s}"
+		"en"        "{mediumseagreen}VIP {1} {strange}joined the server."
+		"de"        "{mediumseagreen}VIP {1} {strange}hat das Spiel betreten."
+	}
+	"GetLeaveMessages"
+	{
+		"en"        "Get a leave Message"
+		"de"        "Bekomme eine Verabschiedungs Nachricht"
+	}
+	"GetWelcomeMessages"
+	{
+		"en"        "Get a welcome Message"
+		"de"        "Bekomme eine Willkommens Nachricht"
+	}
+}

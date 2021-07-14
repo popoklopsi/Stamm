@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"GetMoreAmmo"
+	{
+		"#format"   "{1:i}"
+		"en"        "Get {1} percent more ammo"
+		"de"        "Bekomme {1} Prozent mehr Munition"
+	}
+}

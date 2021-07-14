@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"GetKillHP"
+	{
+		"#format"   "{1:i}"
+		"en"        "Get every kill {1} HP"
+		"de"        "Bekomme jeden Kill {1} HP"
+	}
+}

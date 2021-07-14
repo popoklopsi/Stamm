@@ -3,6 +3,5 @@
 	"GetFastLadder"
 	{	
 		"en"        "Climb the ladder fast again"
-		"de"        "Gehe die Leiter wieder schnell hoch"
 	}
 }

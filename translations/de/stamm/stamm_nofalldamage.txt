@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"GetNoFallDamage"
+	{	
+		"en"        "Have No Fall Damage"
+		"de"        "Hab keinen Fallschaden"
+	}
+}

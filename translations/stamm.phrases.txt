@@ -3,361 +3,294 @@
 	"aborted"
 	{
 		"en"        "aborted"
-		"de"        "Abgebrochen"
 	}
 	"Round"
 	{
 		"en"        "round"
-		"de"        "Runde"
 	}
 	"Kill"
 	{
 		"en"        "kill"
-		"de"        "Kill"
 	}
 	"Minute"
 	{
 		"en"        "Minute(s)"
-		"de"        "Minute(n)"
 	}
 	"Points"
 	{
 		"en"        "Stamm Points"
-		"de"        "Stamm Punkte"
 	}
 	"Flag"
 	{
 		"en"        "Flag"
-		"de"        "Flag"
 	}
 	"VIP"
 	{
 		"en"        "VIP"
-		"de"        "VIP"
 	}
 	"PointInfo"
 	{
 		"en"        "You get 1 Stamm Point with:"
-		"de"        "Du bekommst 1 Stamm Punkt mit:"
 	}
 	"NewPointsKill"
 	{
 		"#format"   "{1:i}"
 		"en"        "You got {green}{1} Stamm Point/s for {lightgreen}killing a player"
-		"de"        "Du hast {green}{1} Stamm Punkt/e für {lightgreen}das Töten eines Spielers erhalten"
 	}
 	"NewPointsRound"
 	{
 		"#format"   "{1:i}"
 		"en"        "You got {green}{1} Stamm Point/s for {lightgreen}a new round"
-		"de"        "Du hast {green}{1} Stamm Punkt/e für {lightgreen}eine neue Runde erhalten"
 	}
 	"NewPointsTime"
 	{
 		"#format"   "{1:i},{2:i}"
 		"en"        "You got {green}{1} Stamm Point/s for {lightgreen}playing {2} minute/s"
-		"de"        "Du hast {green}{1} Stamm Punkt/e für {lightgreen}das Spielen von {2} Minute/n erhalten"
 	}
 	"InfoTyp"
 	{
 		"#format"   "{1:s}"
 		"en"        "is enabled, {green}type {1} {lightgreen}to see your {green}current Stamm Points"
-		"de"        "ist aktiviert, {green}schreibe {1} {lightgreen}um deine {green}aktuellen Stamm Punkte {lightgreen}zu sehen"
 	}
 	"InfoTypInfo"
 	{
 		"#format"   "{1:s}"
 		"en"        "Type {green}{1}{lightgreen}, to see all advantages {green}of Stamm"
-		"de"        "Schreibe {green}{1}{lightgreen}, um alle Vorzüge {green}von Stamm {lightgreen}zu sehen"
 	}
 	"DeletedPoints"
 	{
 		"#format"   "{1:s}"
 		"en"        "Stamm Points {green}of {1} {lightgreen}deleted!"
-		"de"        "Stamm Punkte {green}von {1} {lightgreen}wurden gelöscht!"
 	}
 	"YourDeletedPoints"
 	{
 		"en"        "Your Stamm Points {green}were reseted!!"
-		"de"        "Deine Stamm Punkte {green}wurden zurückgesetzt!"
 	}
 	"AllLevels"
 	{
 		"en"        "Level Overview"
-		"de"        "Level Übersicht"
 	}
 	"ChoosePlayer"
 	{
 		"en"        "Choose a Player"
-		"de"        "Wähle einen Spieler"
 	}
 	"ChooseFeature"
 	{
 		"en"        "Choose a Feature"
-		"de"        "Wähle ein Feature"
 	}
 	"NoRanks"
 	{
 		"en"        "No Stamm Players {lightgreen}were found"
-		"de"        "{green}Es wurden {lightgreen}keine Spieler {green}gefunden!"
 	}
 	"Rank"
 	{
 		"#format"   "{1:i},{2:i}"
 		"en"        "You are on {green}{1}. Place{lightgreen} with {green}{2} Stamm Points"
-		"de"        "Du bist auf dem {green}{1}. Platz{lightgreen} mit {green}{2} Stamm Punkten"
 	}
 	"NoVIPClient"
 	{
 		"#format"   "{1:i},{2:i},{3:s},{4:s}"
 		"en"        "You have {green}{1} Stamm Points{lightgreen}, you need still{green} {2} points {lightgreen}to become {3}{4}"
-		"de"        "Du hast {green}{1} Stamm Punkte{lightgreen}, du brauchst noch{green} {2} Punkte {lightgreen}um {3}{4} zu werden"
 	}
 	"VIPClient"
 	{
 		"#format"   "{1:i},{2:s},{3:s}"
 		"en"        "You have {green}{1} Stamm Points{lightgreen}, you are {2}{3}"
-		"de"        "Du hast {green}{1} Stamm Punkte{lightgreen}, du bist {2}{3}"
 	}
 	"NoVIPClientPlain"
 	{
 		"#format"   "{1:i},{2:i},{3:s},{4:s}"
 		"en"        "You have {1} Stamm Points, you need still {2} points to become {3}{4}"
-		"de"        "Du hast {1} Stamm Punkte, du brauchst noch {2} Punkte um {3}{4} zu werden"
 	}
 	"VIPClientPlain"
 	{
 		"#format"   "{1:i},{2:s},{3:s}"
 		"en"        "You have {1} Stamm Points, you are {2}{3}"
-		"de"        "Du hast {1} Stamm Punkte, du bist {2}{3}"
 	}
 	"NoVIPAll"
 	{
 		"#format"   "{1:s},{2:i},{3:i},{4:s},{5:s}"
 		"en"        "{green}{1} {lightgreen}has {green}{2} Stamm Points{lightgreen}, he needs still{green} {3} points {lightgreen}to become {4}{5}"
-		"de"        "{green}{1} {lightgreen}hat {green}{2} Stamm Punkte{lightgreen}, er braucht noch{green} {3} Punkte {lightgreen}um {4}{5} zu werden"
 	}
 	"VIPAll"
 	{
 		"#format"   "{1:s},{2:i},{3:s},{4:s}"
 		"en"        "{green}{1} {lightgreen}has {green}{2} Stamm Points{lightgreen}, he's {3}{4}"
-		"de"        "{green}{1} {lightgreen}hat {green}{2} Stamm Punkte{lightgreen}, er ist {3}{4}"
 	}
 	"VIPClientZero"
 	{
 		"#format"   "{1:i}"
 		"en"        "You have {green}{1} Stamm Points{lightgreen}"
-		"de"        "Du hast {green}{1} Stamm Punkte{lightgreen}"
 	}
 	"VIPClientPlainZero"
 	{
 		"#format"   "{1:i}"
 		"en"        "You have {1} Stamm Points"
-		"de"        "Du hast {1} Stamm Punkte"
 	}
 	"VIPAllZero"
 	{
 		"#format"   "{1:s},{2:i}"
 		"en"        "{green}{1} {lightgreen}has {green}{2} Stamm Points{lightgreen}"
-		"de"        "{green}{1} {lightgreen}hat {green}{2} Stamm Punkte{lightgreen}"
 	}
 	"LevelNowVIP"
 	{
 		"#format"   "{1:s},{2:s}"
 		"en"        "{1} is {green}now {2} VIP"
-		"de"        "{green}{1} {lightgreen}ist jetzt {green}{2} VIP"
 	}
 	"LevelNowLevel"
 	{
 		"#format"   "{1:s},{2:s}"
 		"en"        "{1} is {green}now {2}"
-		"de"        "{green}{1} {lightgreen}ist jetzt {green}{2}"
 	}
 	"JoinVIP"
 	{
 		"en"        "{green}Rejoin {lightgreen}to get {green}all features"
-		"de"        "{green}Rejoine {lightgreen}um {green}alle Features {lightgreen}zu bekommen"
 	}
 	"StammPoints"
 	{
 		"en"        "Your Stamm Points:"
-		"de"        "Deine Stamm Punkte:"
 	}
 	"StammTop"
 	{
 		"en"        "Stamm Top 10:"
-		"de"        "Stamm Top 10:"
 	}
 	"StammRank"
 	{
 		"en"        "Your Stamm Rank:"
-		"de"        "Dein Stamm Rank:"
 	}
 	"StammChange"
 	{
 		"en"        "Switch your features on/off:"
-		"de"        "Features an/aus stellen:"
 	}
 	"Close"
 	{
 		"en"        "Close"
-		"de"        "Schließen"
 	}
 	"Reset"
 	{
 		"en"        "Reset"
-		"de"        "Zurücksetzen"
 	}
 	"Back"
 	{
 		"en"        "Back"
-		"de"        "Zurück"
 	}
 	"HaveFeatures"
 	{
 		"en"        "The following features are available:"
-		"de"        "Folgende Features sind verfügbar:"
 	}
 	"ChangeFeatures"
 	{
 		"en"        "Enable/Disable running Features:"
-		"de"        "Aktiviere/Deaktivere laufende Features:"
 	}
 	"FeatureOn"
 	{
 		"#format"   "{1:s}"
 		"en"        "Disable {1}"
-		"de"        "Deaktiviere {1}"
 	}
 	"FeatureOff"
 	{
 		"#format"   "{1:s}"
 		"en"        "Enable {1}"
-		"de"        "Aktiviere {1}"
 	}
 	"AdminMenu"
 	{
 		"en"        "Admin Menu"
-		"de"        "Admin Menü"
 	}
 	"PointsOfPlayer"
 	{
 		"en"        "Add Stamm Points to a player"
-		"de"        "Stamm Punkte einem Spieler hinzufügen"
 	}
 	"StammCMD"
 	{
 		"en"        "Stamm Commands"
-		"de"        "Stamm Befehle"
 	}
 	"StammFeatures"
 	{
 		"en"        "Stamm Features"
-		"de"        "Stamm Features"
 	}
 	"ResetPlayer"
 	{
 		"en"        "Reset Stamm Points of a player"
-		"de"        "Spieler Stamm Punkte zurücksetzen"
 	}
 	"HappyHour"
 	{
 		"en"        "Start Happy Hour"
-		"de"        "Happy Hour starten"
 	}
 	"HappyHourEnd"
 	{
 		"en"        "Stop Happy Hour"
-		"de"        "Happy Hour stoppen"
 	}
 	"WritePoints"
 	{
 		"en"        "Write now{green} the number of Stamm Points {lightgreen}to add {green}in your chat"
-		"de"        "Schreibe nun{green} die Anzahl der Stamm Punkte {lightgreen}zum addieren {green}in deinen Chat"
 	}
 	"WritePointsInfo"
 	{
 		"en"        "Message {green}with one space {lightgreen}= {green}abort"
-		"de"        "Nachricht {green}mit einem Leerzeichen {lightgreen}= {green}Abbruch"
 	}
 	"SetPoints"
 	{
 		"#format"   "{1:s},{2:i}"
 		"en"        "Stamm Points of {green}{1} {lightgreen}were set to {green}{2}"
-		"de"        "Stamm Punkte von {green}{1} {lightgreen}wurden auf: {green}{2} {lightgreen}gesetzt"
 	}
 	"SetPoints2"
 	{
 		"#format"   "{1:i}"
 		"en"        "{green}Your Stamm Points {lightgreen}were set to {green}{1}"
-		"de"        "{green}Deine Stamm Punkte {lightgreen}wurden auf {green}{1} {lightgreen}gesetzt!"
 	}
 	"WriteHappyFactor"
 	{
 		"en"        "{green}Now type {lightgreen}the multiplication factor {green}in the chat"
-		"de"        "{green}Schreibe nun {lightgreen}den Multiplikationsfaktor {green}in den Chat"
 	}
 	"WriteHappyFactorInfo"
 	{
 		"en"        "If smaller {green}than 2 {lightgreen}= {green}abort"
-		"de"        "Wenn kleiner {green}als 2 {lightgreen}= {green}Abbruch"
 	}
 	"WriteHappyTime"
 	{
 		"en"        "{green}Now type {lightgreen}the duration (in minutes) {green}in the chat"
-		"de"        "{green}Schreibe {lightgreen}die Dauer(in Minuten) {green}in den Chat"
 	}
 	"WriteHappyTimeInfo"
 	{
 		"en"        "If smaller {green}than 2 {lightgreen}= {green}abort"
-		"de"        "Wenn kleiner {green}als 2 {lightgreen}= {green}Abbruch"
 	}
 	"HappyRunning"
 	{
 		"en"        "Happy Hour {green}is already active"
-		"de"        "Happy Hour {green}ist schon aktiv"
 	}
 	"HappyNotRunning"
 	{
 		"en"        "Happy Hour {green}is not active"
-		"de"        "Happy Hour {green}ist nicht aktiv"
 	}
 	"HappyActive"
 	{
 		"#format"   "{1:i}"
 		"en"        "Currently {green}Happy Hour {lightgreen}is active. Everyone gets now {green}{1}x more Stamm Points"
-		"de"        "Zurzeit ist {green}Happy Hour {lightgreen}aktiv. Jeder bekommt jetzt {green}{1}x mehr Stamm Punkte"
 	}
 	"HappyEnded"
 	{
 		"en"        "Happy Hour End!"
-		"de"        "Happy Hour Ende!"
 	}
 	"LoadFeature"
 	{
 		"en"        "Enable Feature"
-		"de"        "Feature aktivieren"
 	}
 	"UnloadFeature"
 	{
 		"en"        "Disable Feature"
-		"de"        "Feature deaktivieren"
 	}
 	"LoadedFeature"
 	{
 		"#format"   "{1:s}"
 		"en"        "Loaded {green}Feature {1}"
-		"de"        "{green}Feature {1} {lightgreen}wurde geladen"
 	}
 	"UnloadedFeature"
 	{
 		"#format"   "{1:s}"
 		"en"        "Unloaded {green}Feature {1}"
-		"de"        "{green}Feature {1} {lightgreen}wurde gestoppt"
 	}
 	"NoFeatureFound"
 	{
 		"en"        "{green}No Feature {lightgreen}was found"
-		"de"        "{green}Es wurde {lightgreen}kein Feature {green}gefunden"
 	}
 }

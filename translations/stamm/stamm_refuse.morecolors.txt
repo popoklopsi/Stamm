@@ -4,51 +4,43 @@
 	{
 		"#format"	"{1:d}"
 		"en"        "You can refuse {1} times"
-		"de"        "Du kannst {1} Mal verweigern"
 	}
 	
 	"RefuseCommand"
 	{
 		"en"        "Refuse the Game"
-		"de"        "Verweigere das Spiel"
 	}
 	
 	"NotEnoughT"
 	{
 		"#format"	"{1:d}"
 		"en"		"{strange}[ {mediumseagreen}Refuse {strange}] {strange}You can not refuse, because less than {mediumseagreen}{1} {strange}terrorists are alive."
-		"de"		"{strange}[ {mediumseagreen}Verweigern {strange}] {strange}Du kannst nur verweigern, wenn mindestens {mediumseagreen}{1} {strange}Terroristen leben."
 	}
 	
 	"Refuse"
 	{
 		"#format"	"{1:N}"
 		"en"		"{strange}[ {mediumseagreen}Refuse {strange}] {mediumseagreen}{1} {strange}has refused the game."
-		"de"		"{strange}[ {mediumseagreen}Verweigern {strange}] {mediumseagreen}{1} {strange}hat das Spiel verweigert."
 	}
 	
 	"MultiRefuse"
 	{
 		"#format"	"{1:N},{2:d},{3:d}"
 		"en"		"{strange}[ {mediumseagreen}Refuse {strange}] {mediumseagreen}{1} {strange}has refused the game. {strange}[{mediumseagreen}{2}{strange}/{mediumseagreen}{3}{strange}]"
-		"de"		"{strange}[ {mediumseagreen}Verweigern {strange}] {mediumseagreen}{1} {strange}hat das Spiel verweigert. {strange}[{mediumseagreen}{2}{strange}/{mediumseagreen}{3}{strange}]"
 	}
 	
 	"CantRefuse"
 	{
 		"en"        "{strange}[ {mediumseagreen}Refuse {strange}] {strange}You can not refuse anymore!"
-		"de"        "{strange}[ {mediumseagreen}Verweigern {strange}] {strange}Du kannst nicht mehr verweigern!"
 	}
 	
 	"NotAlive"
 	{
 		"en"        "{strange}[ {mediumseagreen}Refuse {strange}] {strange}Dead players can not refuse!"
-		"de"        "{strange}[ {mediumseagreen}Verweigern {strange}] {strange}Tote können nicht verweigern!"
 	}
 
 	"NoT"
 	{
 		"en"        "{strange}[ {mediumseagreen}Refuse {strange}] {strange}CTs can not refuse!"
-		"de"        "{strange}[ {mediumseagreen}Verweigern {strange}] {strange}CTs können nicht verweigern!"
 	}
 }

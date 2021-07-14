@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"GetThrowingKnife"
+	{
+		"de"        "Bekomme {1} Wurfmesser"
+	}
+}

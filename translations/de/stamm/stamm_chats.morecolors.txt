@@ -1,0 +1,49 @@
+"Phrases"
+{
+	"GetVIPMessage"
+	{	
+		"#format"   "{1:s}"
+		"en"        "Write VIP Messages{1}"
+		"de"        "Schreibe VIP Nachrichten{1}"
+	}
+	"GetVIPChat"
+	{	
+		"en"        "Get a own VIP Chat (start message with #})"
+		"de"        "Bekomme einen eigenen VIP Chat (Starte Nachricht mit #)"
+	}
+	"FeatureDisabled"
+	{
+		"en"        "You disabled {mediumseagreen}this Feature!"
+		"de"        "Du hast {mediumseagreen}dieses Feature {strange}deaktiviert!"
+	}
+	"Activate"
+	{
+		"#format"   "{1:s}"
+		"en"        " (start message with {1})"
+		"de"        " (Starte Nachricht mit {1})"
+	}
+	"VIPMessageName"
+	{
+		"#format"   "{1:s}"
+		"en"        "{strange}[VIP Message] {mediumseagreen}{1}"
+		"de"        "{strange}[VIP Nachricht] {mediumseagreen}{1}"
+	}
+	"VIPMessage"
+	{
+		"#format"   "{1:s}"
+		"en"        "{teamcolor}{1}"
+		"de"        "{teamcolor}{1}"
+	}
+	"VIPChatName"
+	{
+		"#format"   "{1:s}"
+		"en"        "{strange}[VIP Chat] {mediumseagreen}{1}"
+		"de"        "{strange}[VIP Chat] {mediumseagreen}{1}"
+	}
+	"VIPChat"
+	{
+		"#format"   "{1:s}"
+		"en"        "{teamcolor}{1}"
+		"de"        "{teamcolor}{1}"
+	}
+}

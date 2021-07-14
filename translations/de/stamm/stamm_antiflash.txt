@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"GetAntiFlash"
+	{
+		"de"        "VIP's können nicht geflasht werden"
+	}
+	"GetTeamFlash"
+	{
+		"de"        "VIP's können nicht vom Team geflasht werden"
+	}
+}

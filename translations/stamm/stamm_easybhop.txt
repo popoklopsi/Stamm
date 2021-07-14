@@ -3,6 +3,5 @@
 	"GetEasyBhop"
 	{	
 		"en"        "Get easy Bunnyhop"
-		"de"        "Bekomme leichtes Bunnyhoppen"
 	}
 }

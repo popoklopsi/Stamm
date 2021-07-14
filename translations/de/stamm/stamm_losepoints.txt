@@ -1,0 +1,14 @@
+"Phrases"
+{
+	"NoLosePoints"
+	{
+		"en"        "Don't lose points on death"
+		"de"        "Verliere keine Punkte durch sterben"
+	}
+	"LosePoints"
+	{
+		"#format"   "{1:i},{2:i}"
+		"en"        "You lost {green}{1} points, {lightgreen}because you {green}died {2} time(s)"
+		"de"        "Du hast {green}{1} Punkte verloren, {lightgreen}weil du {green}{2} mal gestorben bist"
+	}
+}
